@@ -1,6 +1,6 @@
 cask "fswitcher" do
-  version "1.1.0"
-  sha256 "6a42523869d7c4105ce4e9934e0972b6d488e82bbf88cea44433082022a1def1"
+  version "1.1.1"
+  sha256 "67b6dd4046d3c258a7654ba9c34698f28efe6b93234b1b27e13a7b640f54d4b4"
 
   url "https://fswitcher.app/releases/fswitcher-#{version}.dmg"
   name "FSwitcher"
